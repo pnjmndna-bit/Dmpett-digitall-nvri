@@ -130,7 +130,7 @@ body{
     heiht:100%;
     display:block;
     border-radius:12px;
-    object-fit: contai;
+    object-fit: contain;
 }
 
 .otp-card{
