@@ -118,19 +118,19 @@ body{
 .card{
     width:80%;
     height:230px;
-    margin-left:39px;
+    margin:0 auto;
     background:#fff;
     border-radius:14px;
     overflow:hidden;
-    padding:5px;
     position:relative;
 }
 
 .photo-video{
     width:100%;
+    heiht:100%;
     display:block;
     border-radius:12px;
-    object-fit: fill;
+    object-fit: contai;
 }
 
 .otp-card{
