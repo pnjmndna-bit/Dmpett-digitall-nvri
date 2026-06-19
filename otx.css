@@ -129,7 +129,7 @@ body{
     width:100%;
     heiht:100%;
     display:block;
-    object-fit: fill;
+    object-fit:cover;
 }
 
 .otp-card{
