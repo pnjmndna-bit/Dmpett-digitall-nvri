@@ -127,9 +127,9 @@ body{
 
 .photo-video{
     width:100%;
-    heiht:100%;
+    heightt:100%;
     display:block;
-    object-fit:contain;
+    object-fit:cover;
 }
 
 .otp-card{
